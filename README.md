@@ -1,2 +1,2 @@
 # React-Udemy-Workspace
-My react progress in udemy education. 
+My react progress in udemy course. 
