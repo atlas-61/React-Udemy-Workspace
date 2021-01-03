@@ -1,0 +1,16 @@
+.Text0{
+  width: 60%;
+  margin: 16px auto;
+  border: 1px solid #008ba3;
+  box-shadow: 0 2px #00bcd4;
+  padding: 16px;
+  text-align: center;
+}
+.Text1{
+  width: 60%;
+  margin: 16px auto;
+  border: 1px solid #e64a19;
+  box-shadow: 0 2px #ff7d47;
+  padding: 16px;
+  text-align: center;
+}
